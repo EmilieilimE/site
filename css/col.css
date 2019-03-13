@@ -1,0 +1,36 @@
+html,body {
+	margin: 0 auto;
+	background-color: white;
+	width: 100%;
+	height: 100%;
+}
+
+section.fullpage{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.col-1{
+	width: 12.5%;
+	height: 12.5%;
+	background: blue;
+}
+
+.col-2{
+	width: 25%;
+	height: 12.5%;
+	background: red;
+}
+
+.col-3{
+	width: 37.5%;
+	height: 12.5%;
+	background: green;
+}
+
+.col-4{
+	width: 50%;
+	height: 12.5%;
+	background: orange;
+}
